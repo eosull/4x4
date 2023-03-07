@@ -1,4 +1,5 @@
 # 4x4
+![4x4 Artwork](4x4.jpeg)
 Generative music making patch. Developed as part of an MA in Art &amp; Technology in University of Limerick in 2021. Research was conducted on generative and algorithmic approaches to music composition. These patches and the music that was composed using them are the product of that research.
 
 ## General
